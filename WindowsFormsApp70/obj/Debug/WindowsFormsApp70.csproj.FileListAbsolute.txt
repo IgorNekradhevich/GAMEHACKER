@@ -1,0 +1,9 @@
+C:\Users\1\source\repos\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\WindowsFormsApp70.exe.config
+C:\Users\1\source\repos\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\WindowsFormsApp70.exe
+C:\Users\1\source\repos\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\WindowsFormsApp70.pdb
+C:\Users\1\source\repos\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.csprojAssemblyReference.cache
+C:\Users\1\source\repos\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.Form1.resources
+C:\Users\1\source\repos\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.Properties.Resources.resources
+C:\Users\1\source\repos\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.csproj.GenerateResource.cache
+C:\Users\1\source\repos\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.exe
+C:\Users\1\source\repos\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.pdb
